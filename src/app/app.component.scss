@@ -1,0 +1,113 @@
+// .main-containt{
+//     // background: rgb(34,193,195);
+//     background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(237,204,68,0.9556197478991597) 100%);
+//     width: 100%;
+//     height: 100%;
+//     font-size:medium;
+//     font-weight: 700;
+//     padding: 15px;
+//     justify-content: space-between;
+//     font-style:inherit;
+//     border-radius: 10px;
+//     font-family: sans-serif;
+//     border-inline-color: initial;
+//     border: ridge;
+   
+    
+   
+    
+// }
+// .id{
+//     display: flexbox;
+// }
+// .body-containt{
+//     text-decoration: underline;
+//    tr{
+//     td{
+//         padding: 15px;
+//         justify-content: center;
+//         text-shadow: 5px;
+//         display: flex;
+//         text-decoration: underline
+      
+//     }
+//    }
+// }
+// .title{
+   
+// }
+// .main{
+//     display: flex;
+//     justify-content: space-between;
+// }
+.main-container{
+    background: linear-gradient(to bottom, rgba(34,193,195,1) 0%, rgba(237,204,68,0.9556197478991597) 100%);;
+    width: 98vw;
+    height: 100%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+.id{
+   
+    border-radius: 8px;
+    background: cadetblue;
+    width: 20vw;
+    height: 100%;
+    display: flex;
+   display: block;
+    border: ridge;
+    padding-right: 10px;
+
+}   
+.title{
+    border-radius: 8px;
+    background: cadetblue;
+    width: 20vw;
+    height: 100%;
+    display: flex;
+    display: inline-block;
+    border: ridge;
+    padding-right: 10px;
+}
+.body{
+    border-radius: 8px;
+    background: cadetblue;
+    width: 20vw;
+    height: 100%;
+    display: flex;
+    display: inline-block;
+    border: ridge;
+    padding-right: 20px;
+}
+.main-container2{
+    background: linear-gradient(to bottom, rgba(34,193,195,1) 0%, rgba(237,204,68,0.9556197478991597) 100%);
+    // text-align: center;
+    // align-items: center;
+    border-radius: 12px;
+    font-size : medium;
+    font-weight : 700;
+    font-family: sans-serif;
+    display: flex;
+}
+.i{
+    
+}
+.title2{
+    // margin-bottom: 0;
+    
+    // display: inline-block;
+    // text-align: center;
+    // align-items: center;
+    margin-left: 38%;
+    
+    display: flex;
+    justify-content: space-evenly ;
+  
+    
+}
+.body2{
+    margin-left: 28%;
+    display: flex;
+}
